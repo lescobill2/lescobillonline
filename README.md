@@ -1,4 +1,4 @@
-# lescobillonline
+# LESCO Bill Online
 
 Welcome to LESCO Bill Online!
 
